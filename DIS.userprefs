@@ -1,0 +1,60 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Util\Util_GPS.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DISInterface.cs" Line="98" Column="4" />
+      <File FileName="Assets\Plugins\Util\Util_GPS.cs" Line="27" Column="41" />
+      <File FileName="Assets\Plugins\DIS\Utilities\PDUProcessor.cs" Line="339" Column="24" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Generated\Pdu.cs" Line="71" Column="22" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Generated\EntityStatePdu.cs" Line="555" Column="41" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Generated\EntityType.cs" Line="56" Column="26" />
+      <File FileName="Assets\Plugins\DIS\Enumerations\PduType.cs" Line="27" Column="17" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Generated\Vector3Double.cs" Line="42" Column="26" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Vector3Double.cs" Line="3" Column="26" />
+      <File FileName="Assets\Scripts\DISEntity.cs" Line="32" Column="41" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\EntityID.cs" Line="8" Column="26" />
+      <File FileName="Assets\Plugins\DIS\Dis1998\Generated\EntityID.cs" Line="71" Column="23" />
+      <File FileName="Assets\Plugins\Util\Util_Gyro.cs" Line="15" Column="3" />
+      <File FileName="Assets\Plugins\Util\Vector2d.cs" Line="4" Column="15" />
+      <File FileName="Assets\Scripts\UDPThread.cs" Line="35" Column="37" />
+      <File FileName="Assets\Scripts\wtf.cs" Line="19" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="DIS" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="DIS" expanded="True">
+                  <Node name="Dis1998" expanded="True">
+                    <Node name="Generated" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Util" expanded="True">
+                  <Node name="Util_GPS.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>espdu</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
